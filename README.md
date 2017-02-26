@@ -24,11 +24,11 @@ Here are the data for the project:
 ## Repo Structure
 There are three files files within this folder:
 * 'README.md'
-* 'run_analysis.R': This is the R script used to create the tidy dataset from the UCI HAR Dataset
-* 'tidydata.txt': This is the tidy data output in a text file that is space delimited.
-* README.txt
+* 'CodeBook.md': Contains a description of the tidydata.txt file variables.
+* 'run_analysis.R': The R script used to create the tidy dataset from the UCI HAR Dataset
+* 'tidydata.txt': The tidy data output in a text file that is space delimited.
 
-Also included is a folder containing the UCI HAR Dataset which can also be found in the link above.
+   Also included is a folder containing the UCI HAR Dataset which can also be found in the link above.
 
 ## UCI HAR Dataset Folder
 The README.txt contains information on the subject experiment
