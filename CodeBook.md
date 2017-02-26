@@ -11,7 +11,9 @@ WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 * subject - integer number identifying the subject associated with this row of data (These range from 1 to 30)
 * The following are all averages of the original dataset variables grouped
 by subject and activity. 
-   Descriptions from the original dataset will not be repeated here, but can be found at:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+   Descriptions from the original dataset can be found at:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+   
+   With the exception of the observations being averages, the original discriptions in the link above are maintianed.
    * "tBodyAcc-mean()-X""
    * "tBodyAcc-mean()-Y"
    * "tBodyAcc-mean()-Z"
