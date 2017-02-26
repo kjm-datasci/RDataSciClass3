@@ -9,11 +9,10 @@ The purpose of this project is to demonstrate your ability to collect, work with
 * 'tidydata.txt': This is the tidy data output in a text file that is space delimited.
 * README.txt
 
+## UCI HAR Dataset Folder
 The README.txt contains information on the subject experiment
 
-The analysis files are contained in the folder UCI HAR Dataset. The four text files within
-this folder are:
-=========================================
+The analysis files are contained in the folder UCI HAR Dataset. The four text files within this folder are:
 
 - 'README.txt'
 
@@ -23,13 +22,12 @@ this folder are:
 
 - 'activity_labels.txt': Links the class labels with their activity name.
 
-## UCI HAR Dataset Folder
-Within the UCI HAR Dataset folder, there are two folers:
+### Within the UCI HAR Dataset folder, there are two folers:
 ========================================= 
 - 'test'
 - 'train'
 
-Within the test folder, there are the following three files:
+#### Within the test folder, there are the following three files:
 =========================================  
 - 'X_test.txt': This included the Test dataset.
 
