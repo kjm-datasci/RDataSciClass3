@@ -2,9 +2,7 @@
 R Data Science Class 3 Assignment
 
 ## Project Purpose
-The purpose of this project is to demonstrate your ability to collect, work with, and 
-clean a data set. There are three files files within this folder:
-=========================================
+The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. There are three files files within this folder:
 
 * 'README.md'
 * 'run_analysis.R': This is the R script used to create the tidy dataset from the UCI HAR Dataset
@@ -25,6 +23,7 @@ this folder are:
 
 - 'activity_labels.txt': Links the class labels with their activity name.
 
+## UCI HAR Dataset Folder
 Within the UCI HAR Dataset folder, there are two folers:
 ========================================= 
 - 'test'
