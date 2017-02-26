@@ -3,7 +3,6 @@ library(dplyr)
 library(xlsx)
 # library(XML)
 # library(data.table)
-setwd("/Users/kyle_mendenhall/Documents/coursera/R Data Science Program/Class 3 - Cleaning Data/Final Assignment/")
 
 # Import Data
   train = read.table(file = "UCI HAR Dataset/train/X_train.txt")     # Train dataset
@@ -42,3 +41,4 @@ setwd("/Users/kyle_mendenhall/Documents/coursera/R Data Science Program/Class 3 
 
 # Direction Objective #5: Create independent tidy data set with average of each variable from recent dataset ----
   tidydata = meanstddata %>% group_by(activity,subject) %>% summarise_each(funs(mean))
+write.table(tidydata,file = "tidydata.txt",sep = " ")
