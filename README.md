@@ -19,17 +19,14 @@ The analysis files are contained in the folder UCI HAR Dataset. The four text fi
 - 'activity_labels.txt': Links the class labels with their activity name.
 
 ### Within the UCI HAR Dataset folder, there are two folers:
-========================================= 
 - 'test'
 - 'train'
 
 #### Within the test folder, there are the following three files:
-=========================================  
 - 'X_test.txt': This included the Test dataset.
 - 'y_test.txt': Test labels.
 
-Within the train folder, there are the following three files:
-=========================================   
+#### Within the train folder, there are the following three files:
 - 'X_train.txt': Training set.
 - 'y_train.txt': Training labels.
 
